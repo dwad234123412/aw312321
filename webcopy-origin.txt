@@ -1,0 +1,184 @@
+Uri: https://cdn.cloudflare.steamstatic.com/steam/apps/256865846/movie480_vp9.webm?t=1639961105
+File Name: C:\Downloaded Web Sites\inuyashagame.com\steam\apps\256865846\movie480_vp9.webm
+Content Type: video/webm
+
+Uri: https://cdn.discordapp.com/attachments/1070388221881630811/1072339643799965747/INUYASHA.rar
+File Name: C:\Downloaded Web Sites\inuyashagame.com\attachments\1070388221881630811\1072339643799965747\INUYASHA.rar
+Content Type: application/rar
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS83ODI0NzUxLnBuZw==/347x500/LlwN4s.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS83ODI0NzUxLnBuZw==\347x500\LlwN4s.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS83ODI0NzUxLnBuZw==/794x1000/47JHe5.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS83ODI0NzUxLnBuZw==\794x1000\47JHe5.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS83ODI0NzUxLnBuZw==/original/u6lpN8.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS83ODI0NzUxLnBuZw==\original\u6lpN8.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS83ODI0NzUyLnBuZw==/347x500/AFmCqa.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS83ODI0NzUyLnBuZw==\347x500\AFmCqa.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS83ODI0NzUyLnBuZw==/794x1000/LRSHey.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS83ODI0NzUyLnBuZw==\794x1000\LRSHey.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS83ODI0NzUyLnBuZw==/original/DOJeCA.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS83ODI0NzUyLnBuZw==\original\DOJeCA.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4NjkzLnBuZw==/original/nRnhRb.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4NjkzLnBuZw==\original\nRnhRb.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4OTkwLnBuZw==/original/kIhOxa.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4OTkwLnBuZw==\original\kIhOxa.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4OTkxLnBuZw==/347x500/zBGUhJ.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4OTkxLnBuZw==\347x500\zBGUhJ.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4OTkxLnBuZw==/794x1000/2fHKVJ.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4OTkxLnBuZw==\794x1000\2fHKVJ.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4OTkxLnBuZw==/original/ukm3cC.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4OTkxLnBuZw==\original\ukm3cC.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4OTkyLnBuZw==/347x500/0U46i6.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4OTkyLnBuZw==\347x500\0U46i6.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4OTkyLnBuZw==/794x1000/4EBmqn.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4OTkyLnBuZw==\794x1000\4EBmqn.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ4OTkyLnBuZw==/original/uIoaAA.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ4OTkyLnBuZw==\original\uIoaAA.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ5MDczLnBuZw==/347x500/9sSjLQ.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ5MDczLnBuZw==\347x500\9sSjLQ.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ5MDczLnBuZw==/794x1000/JHFVcg.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ5MDczLnBuZw==\794x1000\JHFVcg.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ5MDczLnBuZw==/original/32Myli.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ5MDczLnBuZw==\original\32Myli.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ5MDUxLnBuZw==/347x500/34OrZT.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ5MDUxLnBuZw==\347x500\34OrZT.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ5MDUxLnBuZw==/794x1000/W9bJoF.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ5MDUxLnBuZw==\794x1000\W9bJoF.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQ5MDUxLnBuZw==/original/KVEmTk.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQ5MDUxLnBuZw==\original\KVEmTk.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQyNjMxLnBuZw==/347x500/EXcO%2B4.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQyNjMxLnBuZw==\347x500\EXcO+4.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQyNjMxLnBuZw==/794x1000/RKpQdW.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQyNjMxLnBuZw==\794x1000\RKpQdW.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQyNjMxLnBuZw==/original/wCeWcu.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQyNjMxLnBuZw==\original\wCeWcu.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQyNjMyLnBuZw==/original/xTES%2FQ.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQyNjMyLnBuZw==\original\xTESQ.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQyNjMzLnBuZw==/347x500/obaxkA.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQyNjMzLnBuZw==\347x500\obaxkA.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQyNjMzLnBuZw==/794x1000/y9tuYa.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQyNjMzLnBuZw==\794x1000\y9tuYa.png
+Content Type: image/png
+
+Uri: https://img.itch.zone/aW1hZ2UvMTM0NDQ4NS84MjQyNjMzLnBuZw==/original/8u1I1G.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\aW1hZ2UvMTM0NDQ4NS84MjQyNjMzLnBuZw==\original\8u1I1G.png
+Content Type: image/png
+
+Uri: https://inuyashagame.com/
+File Name: C:\Downloaded Web Sites\inuyashagame.com\index.htm
+Content Type: text/html
+
+Uri: https://inuyashagame.com/css/fonts/bangers-regular.html
+File Name: C:\Downloaded Web Sites\inuyashagame.com\css\fonts\bangers-regular.html
+Content Type: text/html
+
+Uri: https://inuyashagame.com/css/fonts/myriadpro-light.html
+File Name: C:\Downloaded Web Sites\inuyashagame.com\css\fonts\myriadpro-light.html
+Content Type: text/html
+
+Uri: https://inuyashagame.com/css/fonts/myriadpro-regular.html
+File Name: C:\Downloaded Web Sites\inuyashagame.com\css\fonts\myriadpro-regular.html
+Content Type: text/html
+
+Uri: https://inuyashagame.com/css/splide-core.min.css
+File Name: C:\Downloaded Web Sites\inuyashagame.com\css\splide-core.min.css
+Content Type: text/css
+
+Uri: https://inuyashagame.com/css/style.css
+File Name: C:\Downloaded Web Sites\inuyashagame.com\css\style.css
+Content Type: text/css
+
+Uri: https://inuyashagame.com/favicon.ico
+File Name: C:\Downloaded Web Sites\inuyashagame.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://inuyashagame.com/images/home-background.jpg
+File Name: C:\Downloaded Web Sites\inuyashagame.com\images\home-background.jpg
+Content Type: image/jpeg
+
+Uri: https://inuyashagame.com/images/parallax/inuyasha.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\images\parallax\inuyasha.png
+Content Type: image/png
+
+Uri: https://inuyashagame.com/images/screenshots-background.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\images\screenshots-background.png
+Content Type: image/png
+
+Uri: https://inuyashagame.com/images/trailer-background.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\images\trailer-background.png
+Content Type: image/png
+
+Uri: https://inuyashagame.com/images/wishlist-button.png
+File Name: C:\Downloaded Web Sites\inuyashagame.com\images\wishlist-button.png
+Content Type: image/png
+
+Uri: https://inuyashagame.com/scripts/parallax.min.js
+File Name: C:\Downloaded Web Sites\inuyashagame.com\scripts\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://inuyashagame.com/scripts/splide.min.js
+File Name: C:\Downloaded Web Sites\inuyashagame.com\scripts\splide.min.js
+Content Type: application/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: C:\Downloaded Web Sites\inuyashagame.com\analytics.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-223921009-3
+File Name: C:\Downloaded Web Sites\inuyashagame.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/recaptcha/releases/gEr-ODersURoIfof1hiDm7R5/recaptcha__tr.js
+File Name: C:\Downloaded Web Sites\inuyashagame.com\recaptcha\releases\gEr-ODersURoIfof1hiDm7R5\recaptcha__tr.js
+Content Type: text/javascript
+
